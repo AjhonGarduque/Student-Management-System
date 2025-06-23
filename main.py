@@ -13,7 +13,7 @@ def add_students():
 
     try:
         subject_count = int(input(f"How many subject does {name} have? "))
-        if subject_count >= 0:
+        if subject_count <= 0:
             print("Subject must be a number greater than 0")
             return
     except ValueError:
