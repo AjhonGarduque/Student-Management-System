@@ -71,4 +71,4 @@ It started as a basic grade calculator and evolved into a mini Student Managemen
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-I was kinda just trying to upgrade the student calculator by adding a system in it but I realized that it wasn't just a calculator anymore..
+I was kinda just trying to upgrade the student grade calculator by adding a system in it but I realized that it wasn't just a calculator anymore..
